@@ -1,4 +1,4 @@
-# Company-Layoffs-Data-Cleaning-
+# Company Layoffs-Data Cleaning
 A data cleaning project using SQL on a data set that represents the number and percentage of company lay offs from 2020 till 2023. 
 This project works on:
   • Removing duplicate rows
