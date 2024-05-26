@@ -4,4 +4,4 @@ This project works on:
   • Removing duplicate rows
   • Standardizing the data in each column
   • Populating NULL values when possible
-  • Removing rows that have meaningful data missing such as the number and pecentage of layoffs
+  • Removing rows that have important data missing such as the number and pecentage of layoffs
